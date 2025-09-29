@@ -22,8 +22,6 @@ smart_farm_fitcom/
 ├── index.php        # Halaman utama / dashboard
 ├── produk.php       # Modul manajemen produk
 ├── gudang.php       # Modul manajemen gudang / stok
-├── db.php           # Koneksi database (contoh, sesuaikan)
-├── assets/          # Folder CSS, JS, dan aset pendukung
 └── README.md        # Dokumentasi proyek
 ```
 
