@@ -76,6 +76,6 @@ Struktur projek dibuat **modular**, dimana setiap file PHP memiliki tanggung jaw
 ## 👨‍💻Developer Info & Kontak
 * **Nama tim**: Tim A Sekolah Developer Indonesia
 * **Developer**: [Athallah](https://github.com/5iAhT0L/) & [imam](https://github.com/imamMKA/)
-* **Email**: [Athallah](mailto:athallah21216@gmail.com) & [Imam](mailto:imammka23@gmail.com)
+* **Email**: [athallah21216@gmail.com](mailto:athallah21216@gmail.com) & [imammka23@gmail.com](mailto:imammka23@gmail.com)
 ---
 
